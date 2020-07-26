@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Mobile shopping list</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Cart">22858eb41bd29010c2201067bc4bcb55</icon>
+        <item_view display_value="Store Detail Screen Item View">e6858a381bd29010c2201067bc4bcbe0</item_view>
+        <name>Store Form Screen</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-26 21:09:47</sys_created_on>
+        <sys_id>6a858a381bd29010c2201067bc4bcbe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store Form Screen</sys_name>
+        <sys_package display_value="Shopping list" source="x_514644_shopping">f58286b41bd29010c2201067bc4bcbd0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping list">f58286b41bd29010c2201067bc4bcbd0</sys_scope>
+        <sys_update_name>sys_sg_form_screen_6a858a381bd29010c2201067bc4bcbe2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-26 21:09:47</sys_updated_on>
+        <table>x_514644_shopping_store</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=6a858a381bd29010c2201067bc4bcbe2"/>
+</record_update>
